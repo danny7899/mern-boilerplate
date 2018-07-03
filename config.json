@@ -1,0 +1,6 @@
+{
+  "rootDir": "dist",
+  "dbUri": "monogdb://localhost",
+  "mainPort": 3000,
+  "apiPort": 3001
+}
